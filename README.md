@@ -104,4 +104,11 @@ If actions are implemented:
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
+| Folder | Description |
+| :--- | :--- |
+| 📂 **01_DATA** | Raw and processed CSV datasets. |
+| 📂 **02_SQL_SCRIPTS** | Data cleaning and transformation scripts. |
+| 📂 **03_SQL_REPORTS** | Queries for business logic and margin calculations. |
+| 📂 **04_DASHBOARD** | Power BI (.pbix) files and visual exports. |
+| 📂 **05_RECOMMENDATION** | Final business insights and recovery strategies. |
