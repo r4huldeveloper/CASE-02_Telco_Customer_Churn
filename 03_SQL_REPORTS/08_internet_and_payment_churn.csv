@@ -1,0 +1,13 @@
+InternetService,PaymentMethod,churn_percent
+Fiber optic,Electronic check,53.23
+Fiber optic,Mailed check,42.64
+DSL,Electronic check,31.94
+Fiber optic,Bank transfer (automatic),28.95
+Fiber optic,Credit card (automatic),25.29
+DSL,Mailed check,20.72
+No,Electronic check,12.3
+DSL,Credit card (automatic),12.12
+No,Mailed check,9.58
+DSL,Bank transfer (automatic),9.36
+No,Bank transfer (automatic),5.42
+No,Credit card (automatic),2.72
