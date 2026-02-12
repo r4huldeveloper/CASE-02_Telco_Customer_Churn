@@ -97,10 +97,6 @@ If actions are implemented:
 - Improve retention revenue
 - Lower acquisition cost
 
----
-
-## 📸 Dashboard Preview
-(Add screenshot here)
 
 ---
 
